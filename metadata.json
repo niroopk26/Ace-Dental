@@ -1,0 +1,5 @@
+{
+  "name": "Ace Dental Care",
+  "description": "Professional dental clinic in C V Raman Nagar, Bengaluru led by Dr. Rani. Providing high-quality dental care with a focus on patient comfort and modern treatments.",
+  "requestFramePermissions": ["geolocation"]
+}
